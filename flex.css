@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between; /*Distribuye elementos
+    align-items: center; /* Centra verticalmente*/
+    height: 200px;
+}
+/*
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+} */
